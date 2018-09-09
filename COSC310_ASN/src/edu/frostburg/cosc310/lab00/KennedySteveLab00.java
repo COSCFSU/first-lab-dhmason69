@@ -52,7 +52,7 @@ public class KennedySteveLab00 implements Lab00 {
     }
 
     @Override
-    public long problem2() {
+    public long problem2(int total) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     

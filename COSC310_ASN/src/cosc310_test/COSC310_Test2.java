@@ -20,7 +20,7 @@ public class COSC310_Test2 {
         MasonDaveLab00 lab = new MasonDaveLab00();
         System.out.println(lab.problem0(99));
         System.out.println(lab.problem1(99));
-        System.out.println(lab.problem2(9999999));
+        System.out.println(lab.problem2(10000));
     }
     
 }
