@@ -4,7 +4,9 @@
  * 
  * Please put your name, date, and brief description of this class here.
  */
-package edu.frostburg.cosc310.lab00;
+package src.edu.frostburg.cosc310.lab00;
+
+
 
 /**
  * Your documentation should begin here.

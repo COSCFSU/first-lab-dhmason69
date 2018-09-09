@@ -3,9 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package cosc310_test;
+package src.cosc310_test;
 
-import edu.frostburg.cosc310.lab00.KennedySteveLab00;
+import src.edu.frostburg.cosc310.lab00.KennedySteveLab00;
+
 
 /**
  *
@@ -22,5 +23,5 @@ public class COSC310_Test {
         System.out.println(lab.problem0(9999));
         System.out.println(lab.problem1(9999));
     }
-    
+       
 }

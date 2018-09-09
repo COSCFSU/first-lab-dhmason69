@@ -19,7 +19,7 @@
     !! Don't forget to PUSH your completed code to github.  This is how
         I will grade it !!
  */
-package edu.frostburg.cosc310.lab00;
+package src.edu.frostburg.cosc310.lab00;
 
 /**
  *  Interface to be implemented for Lab 00.
